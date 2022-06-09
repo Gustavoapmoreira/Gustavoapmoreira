@@ -1,6 +1,6 @@
 - 👋 Olá meu nome é@Gustavoapmoreira
 - 👀 Eu estou interessado em aprender novas linguagens da programação
-- 🌱 Estou aprendendo a programar recentemente fiz o jogo pog no scrach
+- 🌱 Estou aprendendo a programar recentemente fiz o jogo pog no scratch
 
 
 <!---
