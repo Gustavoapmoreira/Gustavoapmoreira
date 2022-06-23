@@ -1,6 +1,6 @@
-- 👋 Olá meu nome é@Gustavoapmoreira
-- 👀 Eu estou interessado em aprender novas linguagens da programação
-- 🌱 Estou aprendendo a programar recentemente fiz o jogo pog no scratch
+- 👋 Olá meu nome é@Gustavoapmoreira,@Igorhenrique e @Pedrocalhau
+- 👀 Estamos interessados em aprender novas linguagens da programação. Somos alunos do Colégio Antonio Tortato
+- 🌱 Estamos aprendendo a programar recentemente fizemos o jogo pog no scratch
 
 
 <!---
